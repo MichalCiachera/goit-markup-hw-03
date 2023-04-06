@@ -330,19 +330,14 @@ ul {
   padding-top: 50px;
   gap: 30px;
 }
-.projekt-box {
+.element {
   margin: 0;
   padding: 0;
-}
-.element {
-  margin: 0px;
-  padding: 0px;
   width: 370px;
 }
 .element-text {
   margin: 0px;
   padding: 0px;
-  width: 370px;
   border-bottom: 1px solid var(--background-three);
   border-left: 1px solid var(--background-three);
   border-right: 1px solid var(--background-three);
